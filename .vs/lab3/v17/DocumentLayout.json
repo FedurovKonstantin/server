@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|c:\\users\\matthew\\desktop\\servprog\\lab3\\lab3\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|solutionrelative:lab3\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|c:\\users\\matthew\\desktop\\servprog\\lab3\\lab3\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|solutionrelative:lab3\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|c:\\users\\matthew\\desktop\\servprog\\lab3\\lab3\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|solutionrelative:lab3\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|c:\\users\\matthew\\desktop\\servprog\\lab3\\lab3\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|solutionrelative:lab3\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|c:\\users\\matthew\\desktop\\servprog\\lab3\\lab3\\wwwroot\\js\\all.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|solutionrelative:lab3\\wwwroot\\js\\all.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|c:\\users\\matthew\\desktop\\servprog\\lab3\\lab3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|solutionrelative:lab3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|c:\\users\\matthew\\desktop\\servprog\\lab3\\lab3\\pages\\pricing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|solutionrelative:lab3\\pages\\pricing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|c:\\users\\matthew\\desktop\\servprog\\lab3\\lab3\\pages\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|solutionrelative:lab3\\pages\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|c:\\users\\matthew\\desktop\\servprog\\lab3\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|c:\\users\\matthew\\desktop\\servprog\\lab3\\lab3\\pages\\contact.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|solutionrelative:lab3\\pages\\contact.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|c:\\users\\matthew\\desktop\\servprog\\lab3\\lab3\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|solutionrelative:lab3\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|c:\\users\\matthew\\desktop\\servprog\\lab3\\lab3\\pages\\about-us.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|solutionrelative:lab3\\pages\\about-us.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|c:\\users\\matthew\\desktop\\servprog\\lab3\\lab3\\pages\\features.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|solutionrelative:lab3\\pages\\features.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|c:\\users\\matthew\\desktop\\servprog\\lab3\\lab3\\pages\\testimonials.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|solutionrelative:lab3\\pages\\testimonials.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|c:\\users\\matthew\\desktop\\servprog\\lab3\\lab3\\pages\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11603C08-A5AC-4FE3-886A-86D286C7D287}|lab3\\lab3.csproj|solutionrelative:lab3\\pages\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "custom.js",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\wwwroot\\js\\custom.js",
+              "RelativeDocumentMoniker": "lab3\\wwwroot\\js\\custom.js",
+              "ToolTip": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\wwwroot\\js\\custom.js",
+              "RelativeToolTip": "lab3\\wwwroot\\js\\custom.js",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAswHcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-21T17:32:01.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "all.js",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\wwwroot\\js\\all.js",
+              "RelativeDocumentMoniker": "lab3\\wwwroot\\js\\all.js",
+              "ToolTip": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\wwwroot\\js\\all.js",
+              "RelativeToolTip": "lab3\\wwwroot\\js\\all.js",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-21T17:31:43.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\Contact.cshtml.cs",
+              "RelativeDocumentMoniker": "lab3\\Pages\\Contact.cshtml.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\Contact.cshtml.cs",
+              "RelativeToolTip": "lab3\\Pages\\Contact.cshtml.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwBUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:32:23.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\contact.cshtml",
+              "RelativeDocumentMoniker": "lab3\\Pages\\contact.cshtml",
+              "ToolTip": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\contact.cshtml",
+              "RelativeToolTip": "lab3\\Pages\\contact.cshtml",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAIIAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T08:34:40.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "lab3\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "lab3\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T09:14:24.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "portfolio.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\portfolio.cshtml",
+              "RelativeDocumentMoniker": "lab3\\Pages\\portfolio.cshtml",
+              "ToolTip": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\portfolio.cshtml",
+              "RelativeToolTip": "lab3\\Pages\\portfolio.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T08:34:26.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "pricing.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\pricing.cshtml",
+              "RelativeDocumentMoniker": "lab3\\Pages\\pricing.cshtml",
+              "ToolTip": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\pricing.cshtml",
+              "RelativeToolTip": "lab3\\Pages\\pricing.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T08:34:25.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "services.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\services.cshtml",
+              "RelativeDocumentMoniker": "lab3\\Pages\\services.cshtml",
+              "ToolTip": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\services.cshtml",
+              "RelativeToolTip": "lab3\\Pages\\services.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T08:34:24.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "testimonials.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\testimonials.cshtml",
+              "RelativeDocumentMoniker": "lab3\\Pages\\testimonials.cshtml",
+              "ToolTip": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\testimonials.cshtml",
+              "RelativeToolTip": "lab3\\Pages\\testimonials.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T08:34:23.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "features.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\features.cshtml",
+              "RelativeDocumentMoniker": "lab3\\Pages\\features.cshtml",
+              "ToolTip": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\features.cshtml",
+              "RelativeToolTip": "lab3\\Pages\\features.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T08:33:07.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab3\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\Index.cshtml",
+              "RelativeToolTip": "lab3\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T08:13:09.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "lab3\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "lab3\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAAFwAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T08:13:54.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Program.cs",
+              "RelativeDocumentMoniker": "lab3\\Program.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Program.cs",
+              "RelativeToolTip": "lab3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T08:06:59.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "contact.php",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\contact.php",
+              "RelativeDocumentMoniker": "lab3\\Pages\\contact.php",
+              "ToolTip": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\contact.php",
+              "RelativeToolTip": "lab3\\Pages\\contact.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-03-21T17:01:51.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "about-us.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\about-us.cshtml",
+              "RelativeDocumentMoniker": "lab3\\Pages\\about-us.cshtml",
+              "ToolTip": "C:\\Users\\Matthew\\Desktop\\servprog\\lab3\\lab3\\Pages\\about-us.cshtml",
+              "RelativeToolTip": "lab3\\Pages\\about-us.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T08:34:40.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
