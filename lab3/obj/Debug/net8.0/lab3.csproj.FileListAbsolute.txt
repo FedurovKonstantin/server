@@ -59,3 +59,4 @@
 /Users/kostya/Desktop/lab3 2/lab3/obj/Debug/net8.0/lab3.pdb
 /Users/kostya/Desktop/lab3 2/lab3/obj/Debug/net8.0/lab3.genruntimeconfig.cache
 /Users/kostya/Desktop/lab3 2/lab3/obj/Debug/net8.0/ref/lab3.dll
+/Users/kostya/Desktop/lab3 2/lab3/obj/Debug/net8.0/lab3.sourcelink.json
