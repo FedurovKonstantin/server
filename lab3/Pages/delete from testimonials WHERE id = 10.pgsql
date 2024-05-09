@@ -1,0 +1,1 @@
+delete from testimonials WHERE id = 10

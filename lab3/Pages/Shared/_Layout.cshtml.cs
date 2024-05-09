@@ -15,6 +15,15 @@ namespace lab3.Pages
 {
     public class testimonial
     {
+        public testimonial(int id, string quote, string description, string author, string role, string image)
+        {
+            this.id = id;
+            this.quote = quote;
+            this.description = description;
+            this.author = author;
+            this.role = role;
+            this.image = image;
+        }
         public int id { get; set; }
         public string quote { get; set; }
         public string description { get; set; }
